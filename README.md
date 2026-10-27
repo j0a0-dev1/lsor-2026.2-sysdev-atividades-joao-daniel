@@ -1,2 +1,3 @@
-# roteiro-aula3
-# roteiro-aula3
+
+Titulos:
+*[Atividade de aula 03](./atividade-aula-03.md);
